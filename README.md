@@ -1,5 +1,5 @@
 # Clicky Game
-This is a memory game with React.js. 
+This is a memory game with React App.
 
 ## Getting Started
 Click <a href="https://skang91.github.io/Clicky-Game/">here</a> to start!
