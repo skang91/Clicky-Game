@@ -5,7 +5,7 @@ This is a memory game with React.js.
 Click <a href="https://skang91.github.io/Clicky-Game/">here</a> to start!
 
 ## Screen Shots
-![Screen shot]
+![Screen shot](public/src/img/screenshot.png)
 
 ## Instrcution
 * The user begins the game by clicking on a gif.
